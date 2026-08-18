@@ -14,7 +14,7 @@
   <project path="vendor/xiaomi/miuicamera-sweet" name="CandyTrees/vendor_xiaomi_miuicamera-sweet" remote="gh" revision="lineage-23.2" />
 
   <!-- Kernel -->
-  <project path="kernel/xiaomi/sm6150" name="tbyool/android_kernel_xiaomi_sm6150" remote="gh" revision="16.2" />
+  <project path="kernel/xiaomi/sm6150" name="tbyool/android_kernel_xiaomi_sm6150" remote="gh" revision="17.0" />
 
   <!-- Hardware -->
   <project path="hardware/xiaomi" name="CandyTrees/hardware_xiaomi" remote="gh" revision="lineage-23.2" />
